@@ -11,9 +11,7 @@ The clarinet is representative of Bob's father
 The ice is representative of Carol's mother. 
 
 
-<<<<<<< HEAD
 # joke time by Susanna
-=======
 ***Bob's joke: 
 
 Juan comes up to the Mexican border on his bicycle. He's got 2 large bags over his shoulders. The guard stops him and says, "What's in the bags?"
@@ -36,5 +34,4 @@ This sequence of events if repeated every day for 3 years. Finally, Juan doesn't
 "Hey buddy," says the guard, "I know you are smuggling something. It's driving me crazy. It's all I think about and I can't sleep. Just between you and me, what are you smuggling?"
 
 Juan sips his beer and says, "Bicycles."
->>>>>>> 159abe0533e85f5a98c6d5b4071aa23947ea5681
 
