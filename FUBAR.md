@@ -5,3 +5,7 @@ This one time at band camp.  Bob and Carol did a thing... involving a clairinet,
 Band camp is representative of the psyche
 The clarinet is representative of Bob's father
 The ice is representative of Carol's mother. 
+
+
+# joke time by Susanna
+
